@@ -18,4 +18,4 @@ The features or variables are the following:
 
 The algorithms used are:
 a) Decision Trees
-b) AdaBoost
+b) AdaBoost, Boosting algorithm
