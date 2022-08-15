@@ -16,3 +16,4 @@ The features or variables are the following:
 10) active_member
 11) estimated_salary
 12) churn, used as the target. 1 if the client has left the bank during some period or 0 if he/she has not.
+ 
