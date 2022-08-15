@@ -113,6 +113,3 @@ adaMod = AdaBoostClassifier(base_estimator = None, n_estimators = 200, learning_
 adaMod.fit(X_train, y_train)
 # Compute the model accuracy on the given test data and labels
 print(adaMod.score(X_test, y_test))
-
-
-#https://www.kaggle.com/code/mimansamaheshwari/bank-churn-prediction
